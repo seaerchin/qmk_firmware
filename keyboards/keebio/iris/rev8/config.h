@@ -21,4 +21,8 @@
 #define BOOTMAGIC_ROW 0
 #define BOOTMAGIC_COLUMN 0
 #define MK_KINETIC_SPEED
-#define HOLD_ON_OTHER_KEY_PRESS
+// Configure the global tapping term (default: 200ms)
+#define TAPPING_TERM 190
+
+// Enable rapid switch from tap to hold, disables double tap hold auto-repeat.
+#define QUICK_TAP_TERM 0
