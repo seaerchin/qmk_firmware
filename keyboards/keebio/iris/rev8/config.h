@@ -22,7 +22,7 @@
 #define BOOTMAGIC_COLUMN 0
 #define MK_KINETIC_SPEED
 // Configure the global tapping term (default: 200ms)
-#define TAPPING_TERM 200
+#define TAPPING_TERM 160
 
 #define PERMISSIVE_HOLD
 #define QUICK_TAP_TERM_PER_KEY
